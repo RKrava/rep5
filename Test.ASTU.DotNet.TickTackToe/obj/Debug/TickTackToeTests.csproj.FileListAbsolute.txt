@@ -1,0 +1,17 @@
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\Test.ASTU.DotNet.TickTackToe.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\Test.ASTU.DotNet.TickTackToe.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\TickTackToeTests.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\Test.ASTU.DotNet.TickTackToe.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\Test.ASTU.DotNet.TickTackToe.pdb
+C:\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\Test.ASTU.DotNet.TickTackToe.dll
+C:\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\Test.ASTU.DotNet.TickTackToe.pdb
+C:\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.dll
+C:\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.pdb
+C:\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\TickTackToeTests.csprojAssemblyReference.cache
+C:\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\TickTackToeTests.csproj.CoreCompileInputs.cache
+C:\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\TickTackToeTests.csproj.CopyComplete
+C:\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\Test.ASTU.DotNet.TickTackToe.dll
+C:\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\Test.ASTU.DotNet.TickTackToe.pdb

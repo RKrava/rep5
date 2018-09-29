@@ -1,0 +1,46 @@
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.exe.config
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.exe
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\bin\Release\ASTU.DotNet.TickTackToe.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\bin\Release\ASTU.DotNet.TickTackToe.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.TickTackToeForm.resources
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.Properties.Resources.resources
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.csproj.GenerateResource.Cache
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.exe
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.pdb
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.exe.config
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.exe
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.pdb
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.exe
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.pdb
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\ASTU.DotNet.TickTackToe.dll
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\ASTU.DotNet.TickTackToe.pdb
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.csprojResolveAssemblyReference.cache
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.TickTackToeForm.resources
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.Properties.Resources.resources
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.csproj.GenerateResource.Cache
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.exe.config
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.exe
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.pdb
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.exe
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.pdb
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\ASTU.DotNet.TickTackToe.dll
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\ASTU.DotNet.TickTackToe.pdb
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.csprojResolveAssemblyReference.cache
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.TickTackToeForm.resources
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.Properties.Resources.resources
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.csproj.GenerateResource.Cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.exe.config
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.exe
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\UserInterfacePictureBox.pdb
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\ASTU.DotNet.TickTackToe.dll
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Release\ASTU.DotNet.TickTackToe.pdb
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.csprojAssemblyReference.cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.TickTackToeForm.resources
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.Properties.Resources.resources
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.csproj.GenerateResource.cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.csproj.CoreCompileInputs.cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.csproj.CopyComplete
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.exe
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Release\UserInterfacePictureBox.pdb

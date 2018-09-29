@@ -1,0 +1,37 @@
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\bin\Debug\UserInterfacePictureBox.exe.config
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\bin\Debug\UserInterfacePictureBox.exe
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\bin\Debug\UserInterfacePictureBox.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.Properties.Resources.resources
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.csproj.GenerateResource.Cache
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.exe
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.TickTackToeForm.resources
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\bin\Debug\ASTU.DotNet.TickTackToe.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterfacePictureBox\bin\Debug\ASTU.DotNet.TickTackToe.pdb
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Debug\UserInterfacePictureBox.exe.config
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Debug\UserInterfacePictureBox.exe
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Debug\UserInterfacePictureBox.pdb
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Debug\ASTU.DotNet.TickTackToe.dll
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\bin\Debug\ASTU.DotNet.TickTackToe.pdb
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.csprojAssemblyReference.cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.TickTackToeForm.resources
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.Properties.Resources.resources
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.csproj.GenerateResource.cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.csproj.CoreCompileInputs.cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.csproj.CopyComplete
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.exe
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.pdb
+C:\Projects\TickTackToe\UserInterfacePictureBox\bin\Debug\UserInterfacePictureBox.exe.config
+C:\Projects\TickTackToe\UserInterfacePictureBox\bin\Debug\UserInterfacePictureBox.exe
+C:\Projects\TickTackToe\UserInterfacePictureBox\bin\Debug\UserInterfacePictureBox.pdb
+C:\Projects\TickTackToe\UserInterfacePictureBox\bin\Debug\ASTU.DotNet.TickTackToe.dll
+C:\Projects\TickTackToe\UserInterfacePictureBox\bin\Debug\ASTU.DotNet.TickTackToe.pdb
+C:\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.csprojAssemblyReference.cache
+C:\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.TickTackToeForm.resources
+C:\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.Properties.Resources.resources
+C:\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.csproj.GenerateResource.cache
+C:\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.csproj.CoreCompileInputs.cache
+C:\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.csproj.CopyComplete
+C:\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.exe
+C:\Projects\TickTackToe\UserInterfacePictureBox\obj\Debug\UserInterfacePictureBox.pdb

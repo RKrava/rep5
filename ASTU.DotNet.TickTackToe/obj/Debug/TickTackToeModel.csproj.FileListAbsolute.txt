@@ -1,0 +1,16 @@
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\ASTU.DotNet.TickTackToe\obj\Debug\ASTU.DotNet.TickTackToe.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\ASTU.DotNet.TickTackToe\obj\Debug\ASTU.DotNet.TickTackToe.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\ASTU.DotNet.TickTackToe\obj\Debug\TickTackToeModel.csprojResolveAssemblyReference.cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.dll
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.pdb
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Debug\TickTackToeModel.csproj.CoreCompileInputs.cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Debug\ASTU.DotNet.TickTackToe.dll
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Debug\ASTU.DotNet.TickTackToe.pdb
+C:\Projects\TickTackToe\ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.dll
+C:\Projects\TickTackToe\ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.pdb
+C:\Projects\TickTackToe\ASTU.DotNet.TickTackToe\obj\Debug\TickTackToeModel.csprojAssemblyReference.cache
+C:\Projects\TickTackToe\ASTU.DotNet.TickTackToe\obj\Debug\TickTackToeModel.csproj.CoreCompileInputs.cache
+C:\Projects\TickTackToe\ASTU.DotNet.TickTackToe\obj\Debug\ASTU.DotNet.TickTackToe.dll
+C:\Projects\TickTackToe\ASTU.DotNet.TickTackToe\obj\Debug\ASTU.DotNet.TickTackToe.pdb

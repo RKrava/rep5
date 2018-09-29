@@ -1,0 +1,13 @@
+C:\Projects\TickTackToe\UserInterface\bin\Debug\UserInterface.exe.config
+C:\Projects\TickTackToe\UserInterface\bin\Debug\UserInterface.exe
+C:\Projects\TickTackToe\UserInterface\bin\Debug\UserInterface.pdb
+C:\Projects\TickTackToe\UserInterface\bin\Debug\ASTU.DotNet.TickTackToe.dll
+C:\Projects\TickTackToe\UserInterface\bin\Debug\ASTU.DotNet.TickTackToe.pdb
+C:\Projects\TickTackToe\UserInterface\obj\Debug\UserInterfaceGridView.csprojAssemblyReference.cache
+C:\Projects\TickTackToe\UserInterface\obj\Debug\UserInterface.TickTackToeForm.resources
+C:\Projects\TickTackToe\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Projects\TickTackToe\UserInterface\obj\Debug\UserInterfaceGridView.csproj.GenerateResource.cache
+C:\Projects\TickTackToe\UserInterface\obj\Debug\UserInterfaceGridView.csproj.CoreCompileInputs.cache
+C:\Projects\TickTackToe\UserInterface\obj\Debug\UserInterfaceGridView.csproj.CopyComplete
+C:\Projects\TickTackToe\UserInterface\obj\Debug\UserInterface.exe
+C:\Projects\TickTackToe\UserInterface\obj\Debug\UserInterface.pdb

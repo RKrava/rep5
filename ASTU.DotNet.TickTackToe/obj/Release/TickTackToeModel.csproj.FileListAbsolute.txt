@@ -1,0 +1,21 @@
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\ASTU.DotNet.TickTackToe\bin\Release\ASTU.DotNet.TickTackToe.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\ASTU.DotNet.TickTackToe\bin\Release\ASTU.DotNet.TickTackToe.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\TickTackToeModel.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\ASTU.DotNet.TickTackToe.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\ASTU.DotNet.TickTackToe.pdb
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\bin\Release\ASTU.DotNet.TickTackToe.dll
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\bin\Release\ASTU.DotNet.TickTackToe.pdb
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\TickTackToeModel.csprojResolveAssemblyReference.cache
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\ASTU.DotNet.TickTackToe.dll
+I:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\ASTU.DotNet.TickTackToe.pdb
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\bin\Release\ASTU.DotNet.TickTackToe.dll
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\bin\Release\ASTU.DotNet.TickTackToe.pdb
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\TickTackToeModel.csprojResolveAssemblyReference.cache
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\ASTU.DotNet.TickTackToe.dll
+E:\Learning\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\ASTU.DotNet.TickTackToe.pdb
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\bin\Release\ASTU.DotNet.TickTackToe.dll
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\bin\Release\ASTU.DotNet.TickTackToe.pdb
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\TickTackToeModel.csprojAssemblyReference.cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\TickTackToeModel.csproj.CoreCompileInputs.cache
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\ASTU.DotNet.TickTackToe.dll
+D:\University\4 курс\1simestr\dNet\3_4_5\TickTackToe\ASTU.DotNet.TickTackToe\obj\Release\ASTU.DotNet.TickTackToe.pdb

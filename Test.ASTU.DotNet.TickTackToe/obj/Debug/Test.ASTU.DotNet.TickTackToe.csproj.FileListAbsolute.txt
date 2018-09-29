@@ -1,0 +1,7 @@
+c:\users\peter\documents\visual studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\Test.ASTU.DotNet.TickTackToe.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\Test.ASTU.DotNet.TickTackToe.dll
+c:\users\peter\documents\visual studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\Test.ASTU.DotNet.TickTackToe.pdb
+c:\users\peter\documents\visual studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.dll
+c:\users\peter\documents\visual studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\bin\Debug\ASTU.DotNet.TickTackToe.pdb
+c:\users\peter\documents\visual studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\Test.ASTU.DotNet.TickTackToe.dll
+c:\users\peter\documents\visual studio 2012\Projects\TickTackToe\Test.ASTU.DotNet.TickTackToe\obj\Debug\Test.ASTU.DotNet.TickTackToe.pdb

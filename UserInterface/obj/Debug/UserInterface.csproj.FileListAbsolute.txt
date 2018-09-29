@@ -1,0 +1,11 @@
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\bin\Debug\UserInterface.exe.config
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\bin\Debug\UserInterface.exe
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\bin\Debug\UserInterface.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\obj\Debug\UserInterface.csprojResolveAssemblyReference.cache
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\obj\Debug\UserInterface.TickTackToeForm.resources
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\obj\Debug\UserInterface.Properties.Resources.resources
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\obj\Debug\UserInterface.csproj.GenerateResource.Cache
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\obj\Debug\UserInterface.exe
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\obj\Debug\UserInterface.pdb
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\bin\Debug\ASTU.DotNet.TickTackToe.dll
+C:\Users\Peter\Documents\Visual Studio 2012\Projects\TickTackToe\UserInterface\bin\Debug\ASTU.DotNet.TickTackToe.pdb
