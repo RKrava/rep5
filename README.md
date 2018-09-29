@@ -2,7 +2,7 @@
 
 C# implementation of legend game Tick Tack Toe with aggressive bot on infinity field. The project was part of my course work on the 3rd year studying in university.
 
-##Folders structure
+## Folders structure
 
 ```
 ASTU.DotNet.TickTackToe/
